@@ -1,0 +1,47 @@
+.navbarcontainer{
+    background: #37AFD4;
+    height: 80px;
+   
+}
+h1{
+color: #F8FBFF;
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+a{
+color: #F8FBFF;
+text-align: right;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.32px;
+}
+ul{
+    margin-top: 9px;
+}
+li{
+    list-style-type: none;
+    list-style: none;
+}
+button{
+    border-radius: 8px;
+border: 1px solid #FED234;
+background: #FED74C;
+box-shadow: 0px 4px 16px 0px rgba(101, 75, 1, 0.25);
+padding: 8px 16px;
+
+align-items: center;
+gap: 8px; 
+color: #0B2C5C;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 150% */
+}
