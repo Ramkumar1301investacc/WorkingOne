@@ -1,0 +1,9 @@
+.imageholder{
+    max-width: 164px;
+    max-height: 180px;
+    border-radius: 1rem;
+    border: 1.5px solid #ACDDEC;
+    background: #EBF4FF;
+    box-shadow: 0px 4px 16px 0px rgba(23, 82, 99, 0.25);
+
+}
