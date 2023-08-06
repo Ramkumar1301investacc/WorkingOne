@@ -6,4 +6,53 @@
     background: #EBF4FF;
     box-shadow: 0px 4px 16px 0px rgba(23, 82, 99, 0.25);
 
+} 
+.imageholder:hover{
+    border-radius: 16px;
+border: 1.5px solid #FECD20;
+background: #FEE68F;
+box-shadow: 0px 4px 16px 0px rgba(121, 95, 1, 0.25); 
+}
+#catchPhrase{
+    color: #37AFD4;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+h1{
+    color: #2B2F64;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.32px;
+}
+#letStart{
+    color: #37AFD4;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+input{
+    border-radius: 12px;
+background: #37AFD4;
+border: #37AFD4;
+
+width: 352px;
+height: 50px;
+flex-shrink: 0;
+}
+button{
+    border-radius: 12px;
+background: #FED74C;
+
+border:#FED74C;
+width: 164px;
+height: 50px; 
 }
