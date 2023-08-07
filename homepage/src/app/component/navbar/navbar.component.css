@@ -24,6 +24,13 @@ line-height: normal;
 letter-spacing: 0.32px;
 text-decoration: none;
 }
+.navContent{
+    display: flex;
+    float: right;
+       
+    align-self: center;
+    margin-bottom: auto;
+}
 ul{
     margin-top: 9px;
 }

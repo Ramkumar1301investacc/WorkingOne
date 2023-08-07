@@ -1,3 +1,21 @@
+.row{
+    display: flex;
+    width: 100%;
+   
+
+}
+.col{
+    border: 1px solid salmon;
+    flex: 50%;
+}
+.contentHolder{
+    display: flex;
+
+}
+.infoGraphics{
+    display: flex;
+}
+
 .imageholder{
     max-width: 164px;
     max-height: 180px;
